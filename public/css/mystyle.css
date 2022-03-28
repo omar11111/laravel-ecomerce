@@ -1,0 +1,13 @@
+.content-wrapper, .main-footer, .main-header{
+    margin-right: 250px !important;
+    margin-left:0 ;
+}
+.nav-sidebar>.nav-item .nav-icon{
+    margin-right: 0;
+    margin-left: 10px;
+}
+.nav-sidebar .nav-link>p>.right{
+    right: 0;
+    left: 1em;
+   
+}
